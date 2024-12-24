@@ -1,7 +1,7 @@
 # Rainfall_Prediction
 "Interactive rainfall prediction app using a trained machine learning model, built with Streamlit for real-time weather parameter inputs and predictions."
 
-<img src="https://github.com/rpjinu/Rainfall_Prediction/blob/main/rainfall_prediction_image.png"width=800>
+<img src="https://github.com/rpjinu/Rainfall_Prediction/blob/main/rainfall_prediction_image.png" width=800>
 
 # Rainfall Prediction Project 🌦️
 
